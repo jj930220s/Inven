@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05dcce591671ede4d8b186286309e450, type: 3}
+  m_Name: Ring
+  m_EditorClassIdentifier: 
+  icon: {fileID: 310011116, guid: 5396de1a23661584e88f7a19c55d4fbc, type: 3}
+  displayName: "\uBC18\uC9C0"
+  attack: 7
+  armor: 7
+  hp: 7
+  critical: 7
